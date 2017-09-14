@@ -83,7 +83,10 @@ section {
   padding-left: 24px;
   padding-right: 24px;
 }
-
+section ul li a{
+  text-decoration: none;
+  list-style-type: none;
+}
 /*Aside*/
 aside {
   background-color: #1EADDF;
