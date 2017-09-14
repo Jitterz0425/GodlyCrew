@@ -85,6 +85,8 @@ section {
 }
 section ul li a{
   text-decoration: none;
+}
+section ul{
   list-style-type: none;
 }
 /*Aside*/
